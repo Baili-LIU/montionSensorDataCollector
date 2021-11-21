@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">PtechV001</string>
+    <string name="edit_msessage">Enter a message</string>
+    <string name="button_send">Send</string>
+    <string name="Grav_X">X Axis Gravity</string>
+    <string name="Grav_Y">Y Axis Gravity</string>
+    <string name="Grav_Z">Z Axis Gravity</string>
+</resources>
